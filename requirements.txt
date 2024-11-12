@@ -1,0 +1,20 @@
+# Backend dependencies (FastAPI, Qdrant, Supabase, etc.)
+fastapi==0.95.2
+pydantic==1.10.2
+qdrant-client
+facenet-pytorch==2.5.2
+Pillow==9.2.0
+requests==2.28.1
+supabase
+
+# Frontend dependencies (Streamlit)
+streamlit==1.11.1
+
+# Additional dependencies
+torch==1.13.1  # Ensure compatibility with facenet-pytorch
+numpy==1.22.4
+
+# Deployment and production
+uvicorn==0.18.3  # For running FastAPI in production
+
+python-multipart
