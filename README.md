@@ -1,9 +1,10 @@
 
 # Vector Twin 🎭  
 **Find Your Celebrity Look-Alike with AI-Powered Vector Search**  
+Vector Twin is a fun and interactive platform that uses AI to match user-uploaded images with their closest celebrity look-alikes. 
 
-Vector Twin is a fun and interactive platform that uses AI to match user-uploaded images with their closest celebrity look-alikes. It leverages cutting-edge technologies for image embedding generation, vector search, and secure backend functionality.  
 
+![vector-twin](vector-celeb-twin.png "vector-twin-celeb")
 ---
 
 ## 📋 Features  
@@ -100,7 +101,4 @@ The collection is preloaded with celebrity embeddings for similarity searches.
 
 ---
 
-## 🌟 Future Enhancements  
-- Add support for multiple languages.  
-- Include more celebrity datasets for broader matching.  
-- Improve UI with additional visual features like embedding visualizations.  
+ 
